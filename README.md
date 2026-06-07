@@ -5,6 +5,8 @@ Lab number: Lab Task 4
 Student name: Cem Cakir  
 Student ID: 44463
 
+## Description
+
 Vehicle Rental is an Android Studio project written in Java. It implements an object-oriented vehicle rental system with abstract classes, interfaces, inheritance, polymorphism, `ArrayList` storage, multi-criteria sorting, garage parking, combustion fuel bitmasks, and XML persistence. The Android screen acts as the required menu: it lets the user print vehicles, add vehicles, park or unpark parkable vehicles, remove vehicles, sort the list, and save the XML database.
 
 ## Fuel XML Mapping
